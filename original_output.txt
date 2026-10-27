@@ -1,0 +1,25 @@
+Average marks: 82.0
+Name: Aman
+Marks: 78
+Grade: B
+Result: Pass
+Aman has passed
+Name: Riya
+Marks: 32
+Grade: F
+Result: Fail
+Riya has failed
+Name: Karan
+Marks: 91
+Grade: A
+Result: Pass
+Karan has passed
+Name: Neha
+Marks: 45
+Grade: C
+Result: Pass
+Neha has passed
+Total students: 4
+Students found
+Processing completed
+Total marks: 246
